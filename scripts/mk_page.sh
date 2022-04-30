@@ -6,7 +6,7 @@ cat << EOF
 
 compiler generated documentation
 
-\`\`\`gwion,noplayground
+\`\`\`gwion,no_run
 EOF
 
 ./gwion -p. -P $NAME
